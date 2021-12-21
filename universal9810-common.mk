@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
 
 # Rootdir
 PRODUCT_PACKAGES += \
+    fstab.samsungexynos9810_ramdisk \
     fstab.samsungexynos9810 \
     init.samsungexynos9810.root.rc \
     init.samsungexynos9810.rc \
